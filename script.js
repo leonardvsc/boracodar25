@@ -7,7 +7,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 let video
 let ambientLight
 let animationHasEnded = false
-const videoId = 'qC0vDKVPCrw' /* ALTERE AQUI O ID DO VÍDEO */
+const videoId = 'WyheY8bkRYs' /* ALTERE AQUI O ID DO VÍDEO */
 
 function createAmbientLight() {
   if (!animationHasEnded) return
